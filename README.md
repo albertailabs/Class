@@ -4,24 +4,25 @@
 
 albert AI 소개
 --
- - 사용 메뉴얼 git hub
- - 교육자 커뮤니티 Naver Cafe  
+ - 로봇 사용 메뉴얼 - [git hub(https://github.com/albertailabs)](https://github.com/albertailabs) 
+  - [처음 사용자를 위한 Start Guide](https://github.com/albertailabs/StartGuide)
+ - 교육자 커뮤니티 - [Naver Cafe](https://cafe.naver.com/albertai)
 
 
 NUGU 서비스 
 --
-- 알버트 누구 서비스 소개
-- MY Q&A 소개 및 실습
+- [알버트 누구 서비스 소개](https://github.com/albertailabs/Nugu)
+- [MY Q&A 소개 및 실습](https://github.com/albertailabs/Social-MyQA)
 - 실습
   - NUGU 기능 사용하기
  
 
 알버트 코딩 고급과정(그래픽 언어)
 --
-- SW 코딩 프로그램 다운로드
-  - 엔트리 연결 1 (robotcoding.school 에서 알버트 코딩 소프트웨어 설치
-  - 엔트리 연결 2 (playentry.org 에서 알버트 연결 프로그램 설치, 온/오프라인 코딩 페이지
-  - 스크래치 오프라인 연결 (robotcoding.school 에서 알버트 코딩 소프트웨어 설치)
+- SW 코딩을 위한 드라이버 및 프로그램 다운로드
+  - [다운로드 하기](https://github.com/albertailabs/SWCoding)
+  - 방법 1 (robotcoding.school 에서 알버트 코딩 소프트웨어 설치
+  - 방법 2 (playentry.org 에서 알버트 연결 프로그램 설치, 온/오프라인 코딩 페이지)
 - 알버트 블록 소개 (위치/방향 등 추가 기능 중심)
 - 실습
   - 로봇 입출력 장치 사용하기 
