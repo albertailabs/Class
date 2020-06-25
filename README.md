@@ -5,7 +5,7 @@
 albert AI 소개
 --
  - 로봇 사용 메뉴얼 - [git hub(https://github.com/albertailabs)](https://github.com/albertailabs) 
-  - [처음 사용자를 위한 Start Guide](https://github.com/albertailabs/StartGuide)
+   - [처음 사용자를 위한 Start Guide](https://github.com/albertailabs/StartGuide)
  - 교육자 커뮤니티 - [Naver Cafe](https://cafe.naver.com/albertai)
 
 
