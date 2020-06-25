@@ -74,3 +74,4 @@ AI 모델학습
 
 Q&A
 --
+ - [교육자 커뮤니티를 활용해 ](https://cafe.naver.com/albertai)
